@@ -22,3 +22,7 @@ All values in the initial_values.java can be changed safely as long as they make
 To run any scheduler, compile all files and then run the scheduler you want to. 
 
 The VSCode Workspace Settings has been provided in the main directory.
+
+
+The Log files have not been attached due to their large size but can be requested at the following email id
+email ID: mete.zodiac0c@icloud.com
