@@ -1,0 +1,924 @@
+Snapshot at Time: 60000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 230969	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 220125	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 163330	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 183116	Proces State: In Ready Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 134174	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 157271	Proces State: Using I/O Channel
+For Process: 10007
+Burst Time: 183548	Remaining Time: 177230	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 189721	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 192599	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 203240	Proces State: Using CPU
+
+Snapshot at Time: 120000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 228198	Proces State: Using I/O Channel
+For Process: 10002
+Burst Time: 223631	Remaining Time: 216724	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 159019	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 178245	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 129338	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 151990	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 170544	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 183113	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 185939	Proces State: Using CPU
+For Process: 10010
+Burst Time: 210844	Remaining Time: 195180	Proces State: In I/O Queue
+
+Snapshot at Time: 180000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 225276	Proces State: Using I/O Channel
+For Process: 10002
+Burst Time: 223631	Remaining Time: 213359	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 155216	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 174010	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 124010	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 146442	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 164408	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 176889	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 180059	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 187324	Proces State: In I/O Queue
+
+Snapshot at Time: 240000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 221902	Proces State: Using CPU
+For Process: 10002
+Burst Time: 223631	Remaining Time: 210297	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 150891	Proces State: In Ready Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 169588	Proces State: In Ready Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 119238	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 140247	Proces State: Using I/O Channel
+For Process: 10007
+Burst Time: 183548	Remaining Time: 158441	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 170768	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 173014	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 180434	Proces State: In Ready Queue
+
+Snapshot at Time: 300000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 218873	Proces State: In Ready Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 207178	Proces State: Using I/O Channel
+For Process: 10003
+Burst Time: 167192	Remaining Time: 147427	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 164802	Proces State: In Ready Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 113892	Proces State: In Ready Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 134543	Proces State: In Ready Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 152242	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 164414	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 166560	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 174008	Proces State: Using CPU
+
+Snapshot at Time: 360000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 215681	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 204111	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 142990	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 160168	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 108614	Proces State: Using I/O Channel
+For Process: 10006
+Burst Time: 162589	Remaining Time: 128686	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 146166	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 158162	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 159608	Proces State: Using CPU
+For Process: 10010
+Burst Time: 210844	Remaining Time: 167551	Proces State: In I/O Queue
+
+Snapshot at Time: 420000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 212899	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 200870	Proces State: In Ready Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 138628	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 156142	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 103511	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 123405	Proces State: Using I/O Channel
+For Process: 10007
+Burst Time: 183548	Remaining Time: 139890	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 152357	Proces State: In Ready Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 152873	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 160067	Proces State: Using CPU
+
+Snapshot at Time: 480000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 209725	Proces State: In Ready Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 197543	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 134705	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 151242	Proces State: Using I/O Channel
+For Process: 10005
+Burst Time: 139565	Remaining Time: 98088	Proces State: Using CPU
+For Process: 10006
+Burst Time: 162589	Remaining Time: 117515	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 134706	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 145566	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 145709	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 151730	Proces State: In I/O Queue
+
+Snapshot at Time: 540000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 206827	Proces State: In Ready Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 194783	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 130638	Proces State: In Ready Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 147065	Proces State: In Ready Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 94116	Proces State: Using I/O Channel
+For Process: 10006
+Burst Time: 162589	Remaining Time: 112762	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 129826	Proces State: In Ready Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 138990	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 137903	Proces State: Using CPU
+For Process: 10010
+Burst Time: 210844	Remaining Time: 143956	Proces State: In Ready Queue
+
+Snapshot at Time: 600000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 203958	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 190410	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 126517	Proces State: In Ready Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 142722	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 89747	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 107567	Proces State: In Ready Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 125095	Proces State: Using I/O Channel
+For Process: 10008
+Burst Time: 196465	Remaining Time: 132601	Proces State: In Ready Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 130439	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 137055	Proces State: Using CPU
+
+Snapshot at Time: 660000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 200722	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 186640	Proces State: Using I/O Channel
+For Process: 10003
+Burst Time: 167192	Remaining Time: 122785	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 138083	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 85042	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 102044	Proces State: In Ready Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 119081	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 126852	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 123814	Proces State: Using CPU
+For Process: 10010
+Burst Time: 210844	Remaining Time: 129987	Proces State: In I/O Queue
+
+Snapshot at Time: 720000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 197435	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 183312	Proces State: Using CPU
+For Process: 10003
+Burst Time: 167192	Remaining Time: 118087	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 133764	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 80732	Proces State: Using I/O Channel
+For Process: 10006
+Burst Time: 162589	Remaining Time: 96492	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 113549	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 120989	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 117652	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 122379	Proces State: In Ready Queue
+
+Snapshot at Time: 780000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 194371	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 180100	Proces State: In Ready Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 114528	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 129178	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 75491	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 91478	Proces State: In Ready Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 107251	Proces State: Using I/O Channel
+For Process: 10008
+Burst Time: 196465	Remaining Time: 115211	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 111210	Proces State: Using CPU
+For Process: 10010
+Burst Time: 210844	Remaining Time: 115438	Proces State: In I/O Queue
+
+Snapshot at Time: 840000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 190570	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 176695	Proces State: In Ready Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 110724	Proces State: In Ready Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 125457	Proces State: Using I/O Channel
+For Process: 10005
+Burst Time: 139565	Remaining Time: 70462	Proces State: In Ready Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 85351	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 101409	Proces State: In Ready Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 109278	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 104640	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 108880	Proces State: Using CPU
+
+Snapshot at Time: 900000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 187371	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 173513	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 106190	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 121082	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 65430	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 80535	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 94652	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 103823	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 97756	Proces State: Using I/O Channel
+For Process: 10010
+Burst Time: 210844	Remaining Time: 102058	Proces State: In I/O Queue
+
+Snapshot at Time: 960000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 184611	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 170443	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 102211	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 116695	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 61227	Proces State: Using CPU
+For Process: 10006
+Burst Time: 162589	Remaining Time: 75770	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 88127	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 96912	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 91333	Proces State: Using I/O Channel
+For Process: 10010
+Burst Time: 210844	Remaining Time: 95256	Proces State: In I/O Queue
+
+Snapshot at Time: 1020000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 181755	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 167204	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 97523	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 112818	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 55809	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 69470	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 82781	Proces State: Using I/O Channel
+For Process: 10008
+Burst Time: 196465	Remaining Time: 90112	Proces State: Using CPU
+For Process: 10009
+Burst Time: 198525	Remaining Time: 84700	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 88703	Proces State: In I/O Queue
+
+Snapshot at Time: 1080000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 179030	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 163365	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 94075	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 108361	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 50747	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 64181	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 78217	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 84685	Proces State: Using I/O Channel
+For Process: 10009
+Burst Time: 198525	Remaining Time: 78027	Proces State: Using CPU
+For Process: 10010
+Burst Time: 210844	Remaining Time: 81794	Proces State: In I/O Queue
+
+Snapshot at Time: 1140000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 175502	Proces State: Using I/O Channel
+For Process: 10002
+Burst Time: 223631	Remaining Time: 159827	Proces State: In Ready Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 89807	Proces State: In Ready Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 103855	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 45963	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 58002	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 72795	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 79553	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 71756	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 75123	Proces State: Using CPU
+
+Snapshot at Time: 1200000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 172172	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 155984	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 86085	Proces State: In Ready Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 99269	Proces State: Using CPU
+For Process: 10005
+Burst Time: 139565	Remaining Time: 41357	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 52018	Proces State: In Ready Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 66912	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 74068	Proces State: Using I/O Channel
+For Process: 10009
+Burst Time: 198525	Remaining Time: 64867	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 67327	Proces State: In I/O Queue
+
+Snapshot at Time: 1260000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 168881	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 152473	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 81835	Proces State: In Ready Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 94322	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 36448	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 47254	Proces State: Using CPU
+For Process: 10007
+Burst Time: 183548	Remaining Time: 61309	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 68719	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 57919	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 59404	Proces State: Using I/O Channel
+
+Snapshot at Time: 1320000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 165400	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 149237	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 78295	Proces State: In Ready Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 90077	Proces State: In Ready Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 31373	Proces State: Using I/O Channel
+For Process: 10006
+Burst Time: 162589	Remaining Time: 41642	Proces State: In Ready Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 54993	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 62967	Proces State: In Ready Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 51529	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 51886	Proces State: Using CPU
+
+Snapshot at Time: 1380000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 162224	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 145815	Proces State: Using I/O Channel
+For Process: 10003
+Burst Time: 167192	Remaining Time: 74113	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 85694	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 25861	Proces State: In Ready Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 35914	Proces State: In Ready Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 49515	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 56650	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 44545	Proces State: Using CPU
+For Process: 10010
+Burst Time: 210844	Remaining Time: 44948	Proces State: In Ready Queue
+
+Snapshot at Time: 1440000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 158957	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 141898	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 70113	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 81209	Proces State: In Ready Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 21537	Proces State: In Ready Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 30239	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 44546	Proces State: Using I/O Channel
+For Process: 10008
+Burst Time: 196465	Remaining Time: 50626	Proces State: Using CPU
+For Process: 10009
+Burst Time: 198525	Remaining Time: 37288	Proces State: In Ready Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 38575	Proces State: In I/O Queue
+
+Snapshot at Time: 1500000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 156403	Proces State: Using I/O Channel
+For Process: 10002
+Burst Time: 223631	Remaining Time: 138545	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 65937	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 76782	Proces State: In Ready Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 16294	Proces State: Using CPU
+For Process: 10006
+Burst Time: 162589	Remaining Time: 25253	Proces State: In Ready Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 38204	Proces State: In Ready Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 44149	Proces State: In Ready Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 30282	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 31827	Proces State: In I/O Queue
+
+Snapshot at Time: 1560000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 153645	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 134259	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 61755	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 71961	Proces State: Using I/O Channel
+For Process: 10005
+Burst Time: 139565	Remaining Time: 11127	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 20333	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 33028	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 38192	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 23977	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 24480	Proces State: In I/O Queue
+
+Snapshot at Time: 1620000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 150264	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 130143	Proces State: In Ready Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 57682	Proces State: Using CPU
+For Process: 10004
+Burst Time: 187284	Remaining Time: 67759	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 5466	Proces State: In I/O Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 15168	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 27299	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 32630	Proces State: Using I/O Channel
+For Process: 10009
+Burst Time: 198525	Remaining Time: 17588	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 16773	Proces State: In I/O Queue
+
+Snapshot at Time: 1680000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 146715	Proces State: Using I/O Channel
+For Process: 10002
+Burst Time: 223631	Remaining Time: 127051	Proces State: Using CPU
+For Process: 10003
+Burst Time: 167192	Remaining Time: 53612	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 63909	Proces State: In Ready Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 876	Proces State: In Ready Queue
+For Process: 10006
+Burst Time: 162589	Remaining Time: 9348	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 22365	Proces State: In I/O Queue
+For Process: 10008
+Burst Time: 196465	Remaining Time: 25534	Proces State: In Ready Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 11188	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 10173	Proces State: In Ready Queue
+
+Snapshot at Time: 1740000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 143417	Proces State: Using I/O Channel
+For Process: 10002
+Burst Time: 223631	Remaining Time: 123253	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 49681	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 58632	Proces State: In Ready Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 0	Proces State: Process Completed
+For Process: 10006
+Burst Time: 162589	Remaining Time: 3468	Proces State: In I/O Queue
+For Process: 10007
+Burst Time: 183548	Remaining Time: 15587	Proces State: Using CPU
+For Process: 10008
+Burst Time: 196465	Remaining Time: 18694	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 3151	Proces State: In I/O Queue
+For Process: 10010
+Burst Time: 210844	Remaining Time: 2948	Proces State: In I/O Queue
+
+Snapshot at Time: 1800000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 138914	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 118519	Proces State: Using CPU
+For Process: 10003
+Burst Time: 167192	Remaining Time: 44008	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 52169	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 0	Proces State: Process Completed
+For Process: 10006
+Burst Time: 162589	Remaining Time: 0	Proces State: Process Completed
+For Process: 10007
+Burst Time: 183548	Remaining Time: 7256	Proces State: Using I/O Channel
+For Process: 10008
+Burst Time: 196465	Remaining Time: 10093	Proces State: In I/O Queue
+For Process: 10009
+Burst Time: 198525	Remaining Time: 0	Proces State: Process Completed
+For Process: 10010
+Burst Time: 210844	Remaining Time: 0	Proces State: Process Completed
+
+Snapshot at Time: 1860000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 133323	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 112470	Proces State: Using I/O Channel
+For Process: 10003
+Burst Time: 167192	Remaining Time: 36563	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 43542	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 0	Proces State: Process Completed
+For Process: 10006
+Burst Time: 162589	Remaining Time: 0	Proces State: Process Completed
+For Process: 10007
+Burst Time: 183548	Remaining Time: 0	Proces State: Process Completed
+For Process: 10008
+Burst Time: 196465	Remaining Time: 0	Proces State: Process Completed
+For Process: 10009
+Burst Time: 198525	Remaining Time: 0	Proces State: Process Completed
+For Process: 10010
+Burst Time: 210844	Remaining Time: 0	Proces State: Process Completed
+
+Snapshot at Time: 1920000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 126257	Proces State: Using CPU
+For Process: 10002
+Burst Time: 223631	Remaining Time: 103476	Proces State: Using I/O Channel
+For Process: 10003
+Burst Time: 167192	Remaining Time: 26783	Proces State: In Ready Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 32452	Proces State: In I/O Queue
+For Process: 10005
+Burst Time: 139565	Remaining Time: 0	Proces State: Process Completed
+For Process: 10006
+Burst Time: 162589	Remaining Time: 0	Proces State: Process Completed
+For Process: 10007
+Burst Time: 183548	Remaining Time: 0	Proces State: Process Completed
+For Process: 10008
+Burst Time: 196465	Remaining Time: 0	Proces State: Process Completed
+For Process: 10009
+Burst Time: 198525	Remaining Time: 0	Proces State: Process Completed
+For Process: 10010
+Burst Time: 210844	Remaining Time: 0	Proces State: Process Completed
+
+Snapshot at Time: 1980000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 118422	Proces State: Using I/O Channel
+For Process: 10002
+Burst Time: 223631	Remaining Time: 94594	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 17440	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 21267	Proces State: Using CPU
+For Process: 10005
+Burst Time: 139565	Remaining Time: 0	Proces State: Process Completed
+For Process: 10006
+Burst Time: 162589	Remaining Time: 0	Proces State: Process Completed
+For Process: 10007
+Burst Time: 183548	Remaining Time: 0	Proces State: Process Completed
+For Process: 10008
+Burst Time: 196465	Remaining Time: 0	Proces State: Process Completed
+For Process: 10009
+Burst Time: 198525	Remaining Time: 0	Proces State: Process Completed
+For Process: 10010
+Burst Time: 210844	Remaining Time: 0	Proces State: Process Completed
+
+Snapshot at Time: 2040000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 110144	Proces State: Using CPU
+For Process: 10002
+Burst Time: 223631	Remaining Time: 86234	Proces State: In Ready Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 8074	Proces State: In I/O Queue
+For Process: 10004
+Burst Time: 187284	Remaining Time: 10398	Proces State: Using I/O Channel
+For Process: 10005
+Burst Time: 139565	Remaining Time: 0	Proces State: Process Completed
+For Process: 10006
+Burst Time: 162589	Remaining Time: 0	Proces State: Process Completed
+For Process: 10007
+Burst Time: 183548	Remaining Time: 0	Proces State: Process Completed
+For Process: 10008
+Burst Time: 196465	Remaining Time: 0	Proces State: Process Completed
+For Process: 10009
+Burst Time: 198525	Remaining Time: 0	Proces State: Process Completed
+For Process: 10010
+Burst Time: 210844	Remaining Time: 0	Proces State: Process Completed
+
+Snapshot at Time: 2100000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 101543	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 75831	Proces State: Using I/O Channel
+For Process: 10003
+Burst Time: 167192	Remaining Time: 0	Proces State: Process Completed
+For Process: 10004
+Burst Time: 187284	Remaining Time: 0	Proces State: Process Completed
+For Process: 10005
+Burst Time: 139565	Remaining Time: 0	Proces State: Process Completed
+For Process: 10006
+Burst Time: 162589	Remaining Time: 0	Proces State: Process Completed
+For Process: 10007
+Burst Time: 183548	Remaining Time: 0	Proces State: Process Completed
+For Process: 10008
+Burst Time: 196465	Remaining Time: 0	Proces State: Process Completed
+For Process: 10009
+Burst Time: 198525	Remaining Time: 0	Proces State: Process Completed
+For Process: 10010
+Burst Time: 210844	Remaining Time: 0	Proces State: Process Completed
+
+Snapshot at Time: 2160000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 87130	Proces State: In I/O Queue
+For Process: 10002
+Burst Time: 223631	Remaining Time: 60898	Proces State: Using I/O Channel
+For Process: 10003
+Burst Time: 167192	Remaining Time: 0	Proces State: Process Completed
+For Process: 10004
+Burst Time: 187284	Remaining Time: 0	Proces State: Process Completed
+For Process: 10005
+Burst Time: 139565	Remaining Time: 0	Proces State: Process Completed
+For Process: 10006
+Burst Time: 162589	Remaining Time: 0	Proces State: Process Completed
+For Process: 10007
+Burst Time: 183548	Remaining Time: 0	Proces State: Process Completed
+For Process: 10008
+Burst Time: 196465	Remaining Time: 0	Proces State: Process Completed
+For Process: 10009
+Burst Time: 198525	Remaining Time: 0	Proces State: Process Completed
+For Process: 10010
+Burst Time: 210844	Remaining Time: 0	Proces State: Process Completed
+
+Snapshot at Time: 2220000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 73738	Proces State: Using I/O Channel
+For Process: 10002
+Burst Time: 223631	Remaining Time: 45252	Proces State: Using CPU
+For Process: 10003
+Burst Time: 167192	Remaining Time: 0	Proces State: Process Completed
+For Process: 10004
+Burst Time: 187284	Remaining Time: 0	Proces State: Process Completed
+For Process: 10005
+Burst Time: 139565	Remaining Time: 0	Proces State: Process Completed
+For Process: 10006
+Burst Time: 162589	Remaining Time: 0	Proces State: Process Completed
+For Process: 10007
+Burst Time: 183548	Remaining Time: 0	Proces State: Process Completed
+For Process: 10008
+Burst Time: 196465	Remaining Time: 0	Proces State: Process Completed
+For Process: 10009
+Burst Time: 198525	Remaining Time: 0	Proces State: Process Completed
+For Process: 10010
+Burst Time: 210844	Remaining Time: 0	Proces State: Process Completed
+
+Snapshot at Time: 2280000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 59118	Proces State: Using I/O Channel
+For Process: 10002
+Burst Time: 223631	Remaining Time: 29669	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 0	Proces State: Process Completed
+For Process: 10004
+Burst Time: 187284	Remaining Time: 0	Proces State: Process Completed
+For Process: 10005
+Burst Time: 139565	Remaining Time: 0	Proces State: Process Completed
+For Process: 10006
+Burst Time: 162589	Remaining Time: 0	Proces State: Process Completed
+For Process: 10007
+Burst Time: 183548	Remaining Time: 0	Proces State: Process Completed
+For Process: 10008
+Burst Time: 196465	Remaining Time: 0	Proces State: Process Completed
+For Process: 10009
+Burst Time: 198525	Remaining Time: 0	Proces State: Process Completed
+For Process: 10010
+Burst Time: 210844	Remaining Time: 0	Proces State: Process Completed
+
+Snapshot at Time: 2340000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 45812	Proces State: Using I/O Channel
+For Process: 10002
+Burst Time: 223631	Remaining Time: 15251	Proces State: In I/O Queue
+For Process: 10003
+Burst Time: 167192	Remaining Time: 0	Proces State: Process Completed
+For Process: 10004
+Burst Time: 187284	Remaining Time: 0	Proces State: Process Completed
+For Process: 10005
+Burst Time: 139565	Remaining Time: 0	Proces State: Process Completed
+For Process: 10006
+Burst Time: 162589	Remaining Time: 0	Proces State: Process Completed
+For Process: 10007
+Burst Time: 183548	Remaining Time: 0	Proces State: Process Completed
+For Process: 10008
+Burst Time: 196465	Remaining Time: 0	Proces State: Process Completed
+For Process: 10009
+Burst Time: 198525	Remaining Time: 0	Proces State: Process Completed
+For Process: 10010
+Burst Time: 210844	Remaining Time: 0	Proces State: Process Completed
+
+Snapshot at Time: 2400000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 32252	Proces State: Using I/O Channel
+For Process: 10002
+Burst Time: 223631	Remaining Time: 403	Proces State: Using CPU
+For Process: 10003
+Burst Time: 167192	Remaining Time: 0	Proces State: Process Completed
+For Process: 10004
+Burst Time: 187284	Remaining Time: 0	Proces State: Process Completed
+For Process: 10005
+Burst Time: 139565	Remaining Time: 0	Proces State: Process Completed
+For Process: 10006
+Burst Time: 162589	Remaining Time: 0	Proces State: Process Completed
+For Process: 10007
+Burst Time: 183548	Remaining Time: 0	Proces State: Process Completed
+For Process: 10008
+Burst Time: 196465	Remaining Time: 0	Proces State: Process Completed
+For Process: 10009
+Burst Time: 198525	Remaining Time: 0	Proces State: Process Completed
+For Process: 10010
+Burst Time: 210844	Remaining Time: 0	Proces State: Process Completed
+
+Snapshot at Time: 2460000
+For Process: 10001
+Burst Time: 234148	Remaining Time: 11357	Proces State: Using I/O Channel
+For Process: 10002
+Burst Time: 223631	Remaining Time: 0	Proces State: Process Completed
+For Process: 10003
+Burst Time: 167192	Remaining Time: 0	Proces State: Process Completed
+For Process: 10004
+Burst Time: 187284	Remaining Time: 0	Proces State: Process Completed
+For Process: 10005
+Burst Time: 139565	Remaining Time: 0	Proces State: Process Completed
+For Process: 10006
+Burst Time: 162589	Remaining Time: 0	Proces State: Process Completed
+For Process: 10007
+Burst Time: 183548	Remaining Time: 0	Proces State: Process Completed
+For Process: 10008
+Burst Time: 196465	Remaining Time: 0	Proces State: Process Completed
+For Process: 10009
+Burst Time: 198525	Remaining Time: 0	Proces State: Process Completed
+For Process: 10010
+Burst Time: 210844	Remaining Time: 0	Proces State: Process Completed
+
+Snapshot at Time: 2495788
+For Process: 10001
+Burst Time: 234148	Remaining Time: 0	Proces State: Process Completed
+For Process: 10002
+Burst Time: 223631	Remaining Time: 0	Proces State: Process Completed
+For Process: 10003
+Burst Time: 167192	Remaining Time: 0	Proces State: Process Completed
+For Process: 10004
+Burst Time: 187284	Remaining Time: 0	Proces State: Process Completed
+For Process: 10005
+Burst Time: 139565	Remaining Time: 0	Proces State: Process Completed
+For Process: 10006
+Burst Time: 162589	Remaining Time: 0	Proces State: Process Completed
+For Process: 10007
+Burst Time: 183548	Remaining Time: 0	Proces State: Process Completed
+For Process: 10008
+Burst Time: 196465	Remaining Time: 0	Proces State: Process Completed
+For Process: 10009
+Burst Time: 198525	Remaining Time: 0	Proces State: Process Completed
+For Process: 10010
+Burst Time: 210844	Remaining Time: 0	Proces State: Process Completed
+
